@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 Created on 25 Jan 2017
 
@@ -17,6 +19,8 @@ print("Uname: ", platform.uname())
 print("System: ", platform.system())
 
 print("Processor: ", platform.processor())
+
+# pip show --files 'foldername'
 
 
  
